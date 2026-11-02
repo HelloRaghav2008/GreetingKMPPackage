@@ -1,4 +1,4 @@
-// swift-tools-version:5.5
+// swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://github.com/HelloRaghav2008/GreetingKMP/releases/download/v1.0.1/Shared.xcframework.zip",
-            checksum: "ae2077cc8675386c6d9a741ebfc364dc97c63ddadeb5365103a7880206c24eb9"
+            url: "https://github.com/HelloRaghav2008/GreetingKMP/releases/download/v2.0.0/Shared.xcframework.zip",
+            checksum: "7a1485ab66cc92b04f2b40b0e4a782d91fbf754995786d61c3901104cb62f133"
         )
     ]
 )
